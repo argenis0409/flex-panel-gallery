@@ -1,0 +1,23 @@
+{
+  "name": "flex-panel-gallery",
+  "version": "1.0.0",
+  "description": "Playing around with flexbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "static -H \"{\\\"Cache-Control\\\": \\\"no-cache, must-revalidate\\\"}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/argenis0409/flex-panel-gallery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/argenis0409/flex-panel-gallery/issues"
+  },
+  "homepage": "https://github.com/argenis0409/flex-panel-gallery#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
+}
